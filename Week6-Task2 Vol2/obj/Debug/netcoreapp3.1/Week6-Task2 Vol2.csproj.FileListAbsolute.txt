@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.exe
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.deps.json
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.runtimeconfig.json
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.dll
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\bin\Debug\netcoreapp3.1\Week6-Task2 Vol2.pdb
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.AssemblyInfo.cs
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.dll
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.pdb
+C:\Users\opilane\source\repos\week6-task\Week6-Task2 Vol2\obj\Debug\netcoreapp3.1\Week6-Task2 Vol2.genruntimeconfig.cache

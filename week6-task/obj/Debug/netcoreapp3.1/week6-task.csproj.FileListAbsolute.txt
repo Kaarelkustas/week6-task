@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\week6-task\week6-task\obj\Debug\netcoreapp3.1\week6-task.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\week6-task\week6-task\obj\Debug\netcoreapp3.1\week6-task.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\week6-task\week6-task\obj\Debug\netcoreapp3.1\week6-task.AssemblyInfo.cs
+C:\Users\opilane\source\repos\week6-task\week6-task\obj\Debug\netcoreapp3.1\week6-task.csproj.CoreCompileInputs.cache
